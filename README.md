@@ -1,4 +1,4 @@
-#### About me:
+About me:
 
 My name is Adelaide, but you can call me **Ada** or **Spectra**.
 - 20 y.o.
