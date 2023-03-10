@@ -10,4 +10,4 @@ My name is Adelaide, but you can call me **Ada** or **Spectra**.
 
 Contact me at [**Discord**](https://discordapp.com/users/729576210107203625) (`spectra#0291`).
 
-More information about me [**HERE**](https://spectrumous.carrd.co/).
+More information [**HERE**](https://spectrumous.carrd.co/).
