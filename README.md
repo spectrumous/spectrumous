@@ -1,4 +1,4 @@
-About me:
+**About me**:
 
 My name is Adelaide, but you can call me **Ada** or **Spectra**.
 - 20 y.o.
@@ -6,7 +6,7 @@ My name is Adelaide, but you can call me **Ada** or **Spectra**.
 - **education**: historian & politician;
 - **line of work**: artist, writer, role-player, mod;
 - **translator**: UA (native) / RU (bilingual) / EN (B2);
-- **programming**: beginner - `Python/JavaScript`.
+- **programming**: beginner `Python/JavaScript`.
 
 Contact me at [**Discord**](https://discordapp.com/users/729576210107203625) (`spectra#0291`).
 
