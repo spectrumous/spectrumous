@@ -6,8 +6,8 @@ My name is Adelaide, but you can call me **Ada** or **Spectra**.
 - **education**: historian & politician;
 - **line of work**: artist, writer, role-player, mod;
 - **translator**: UA-N | EN-B2 | RU-C2;
-- **programming**: Python/JavaScript.
+- **programming**: *soon*...
 
 Contact me at [**Discord**](https://discordapp.com/users/729576210107203625): `@spectraphantom.`.
 
-More information [**HERE**](https://spectrumous.carrd.co/).
+More information in my Carrd [**HERE**](https://spectrumous.carrd.co/).
