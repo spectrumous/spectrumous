@@ -1,7 +1,7 @@
 **About me**:
 
 My name is Adelaide, but you can call me **Ada** or **Spectra**.
-- 22 y.o.
+- 23 y.o.
 - **pronouns**: she/her ([**more**](https://en.pronouns.page/@SpectraPhantom));
 - **education**: historian & politician;
 - **line of work**: artist, writer, role-player, mod;
